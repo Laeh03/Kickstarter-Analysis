@@ -19,6 +19,9 @@ Outcomes based on Launch date. we can use these two charts >*'Cateogory Statisic
 >'successful, canceled, and failed' plays overall by seeking out the Grand Totals.
 [ Github Issues](https://github.com/Laeh03/Kickstarter-Analysis/issues/2) 
 
+After compareing the two visuals, we may look at the Outcomes by Launch date
+[Github Issues](https://github.com/Laeh03/Kickstarter-Analysis/issues/4)
+
 ## **Analysis of Outcomes Based on Goals**
  In this part of the analysis, we now can start to identify the funding goals of the successful plays.
 To get the true number of plays that were successful, we must use the >'=COUNTIFS' formula.
@@ -27,6 +30,12 @@ Before moving on to our conculsion, we must identify the percentage using the >'
 *>'=ROUND(B2/E2,1)'*
 
 ## **Challenges and Difficulties Encountered**
+###### Looking into the Outcomes Based on Goals, the challenge i encountered was with the visualization. 
+
+Looking at the visualization, and dataset, we can see the funding goal of 1,000-4999 were successful by 70%,
+The funding goal of 35000-39999, were successful by 70%, and funding goal of 40000-44999, were also successful by 70%. In conculsion of that, only 543 plays 
+hit majority of their funding goals. 
+
 
 
 
