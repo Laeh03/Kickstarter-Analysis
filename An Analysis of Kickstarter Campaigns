@@ -35,9 +35,15 @@ Before moving on to our conculsion, we must identify the percentage using the >'
 Looking at the visualization, and dataset, we can see the funding goal of 1,000-4999 were successful by 70%,
 The funding goal of 35000-39999, were successful by 70%, and funding goal of 40000-44999, were also successful by 70%. In conculsion of that, only 543 plays 
 hit majority of their funding goals. 
+[Github Issues](https://github.com/Laeh03/Kickstarter-Analysis/issues/5)
 
+## **Results**
+With the above data, we proved in order to have a successful play with hitting *majority* of their funding goal, it must be in the subcateogory of plays.
+Although we did not hit 100% of the funding goals, we did accomplish majority with over half of the percentages. 
 
+In conclusion regarding the Outcomes based on Launch Dates, to come close to funding goals it must be in the subcateogory of plays and to understand the 
+composition, we must look at the Grand Totals.
+Looking into the dataset Outcomes based on Goals, majoirty of our funding goals were accomplished but only by 70% overall.
 
-
-
-
+With both datasets Outcomes based on Goals and Outcomes based on the Launch Date, the limitations were filtering the cateogories, instead of an overal generalization.
+In the earlier exploration, we can see that the limitations in this dataset are high funding goals not accomplished because of the Launch Dates.
