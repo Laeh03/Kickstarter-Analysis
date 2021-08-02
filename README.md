@@ -1,17 +1,19 @@
-# **Kickstarter Challenge**
-
-## **The Overview**
-####### The overview of this analysis explores a dataset interested in finding how different campaigns relate to the outcomes of launch dates and their funding goals. 
-
-## **The Purpose**
-###### In this analysis, I am particularly intereted in finding the relation between outcomes, >'successful, failed, and canceled', based on the goal fundings in the subcateogory
+# Kickstarter Challenge
+The overview of this analysis explores a dataset interested in finding how different campaigns relate to the outcome of launch dates and their funding goals.
+The purpose of this analysis was to find the relation between outcomes; >'successful, failed, and canceled', based on the goal fundings in the subcateogory
 of 'plays' and relating which cateogory was successful by their launch dates. 
+As well as, showing trends and insights from various types of Kickstarters in order to help kickstart theatre campaigns.
 
-## **Challenges** 
-###### In analyzing this project, In the month of May based on the Outcomes by The Launch Dates, the parent cateogory >'theater' was the best month to successfully launch a play.
+---
+
+## Challenges 
+
+
+
+In analyzing this project, In the month of May based on the Outcomes by The Launch Dates, the parent cateogory >'theater' was the best month to successfully launch a play.
 Comparing the Outcome by Goals, the best cateogory in theater to launch is a play. Looking at this data, this is a challenge because although theater is a successful cateogory, 
 this graph proves in order to have a successful play, with hitting their funding goal, it must be in the subcateogory of >'plays'. 
-[Github Issues](https://github.com/Laeh03/Kickstarter-Analysis/issues)
+
 
 ## **Analysis of Outcomes Based on Launch Date**
 ###### To more deeply understand the dataset, Cateogory Statisics and Subcateogory Statisics will be the first two features to look at in order to find the comparison of the 
